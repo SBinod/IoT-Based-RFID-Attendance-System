@@ -1,4 +1,5 @@
 **********************Steps for executing the project*************************
+
 1. The UID of RFID Cards is fetched using the Tag Reading Program
 2. The UID of the RFID Tags observed in the serial monitor should be noted down
 3. The sketch for Arduino Uno checks for the authenticity of the RFID Tags
